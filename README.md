@@ -1,4 +1,4 @@
-# سامانه آگهی آنلاین (Divar-like)
+# سامانه آگهی آنلاین (miniDivar)
 
 یک وب‌اپلیکیشن آگهی آنلاین مشابه دیوار، برای ثبت، مشاهده و مدیریت آگهی‌ها توسط کاربران و مدیران سایت.  
 این پروژه با هدف تمرکز بر عملکردهای اصلی و رابط کاربری واکنش‌گرا طراحی شده است.
@@ -19,8 +19,7 @@
 - Frontend: HTML, CSS, Bootstrap 5  
 - Backend: Laravel (PHP)  
 - Database: MySQL  
-- File Upload: Laravel Storage  
-- Email Notifications: Laravel Mail / SMTP  
+- File Upload: Laravel Storage    
 - Version Control: Git + GitHub  
 
 ---
