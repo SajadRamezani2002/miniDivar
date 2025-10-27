@@ -23,3 +23,19 @@
 - Version Control: Git + GitHub  
 
 ---
+## ⚙️ نصب و راه‌اندازی پروژه (Installation & Setup)
+
+### 1. پیش‌نیازها
+قبل از شروع، مطمئن شوید ابزارهای زیر روی سیستم شما نصب هستند:
+- PHP >= 8.1  
+- Composer  
+- MySQL یا MariaDB  
+- Node.js و npm (برای بخش فرانت‌اند و Mix/Vite)  
+- Git
+
+---
+## نصب وابستگی های PHP و JS
+ ```bash
+composer install
+npm install
+```
